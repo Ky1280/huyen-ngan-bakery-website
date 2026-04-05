@@ -1,0 +1,1 @@
+# Huyền Ngân Bakery Website\n\nLanding Page chính thức — Tích hợp AI Chatbot Gemini + Google Sheets Lead Capture.\n\n🎂 **Khách hàng là ân nhân — since 1992**
